@@ -16,7 +16,7 @@
 
 <strong>Web前端方向</strong>
 
-<b><a href="https://blogweb.cn">个人博客</a></b>
+<b><a href="https://blogweb.cn" target="_blank" >个人博客</a></b>
 </pre>
 
 ### ⭐️ &nbsp;Github Star
