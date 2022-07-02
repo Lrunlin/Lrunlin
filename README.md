@@ -11,10 +11,12 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
-<strong>Hi, I am Lrunlin!👋 </strong>
 
-<strong>A full stack developer from China🇨🇳. </strong>
+<strong>学生</strong>
 
+<strong>Web前端方向</strong>
+
+<b><a href="https://blogweb.cn">个人博客</a></b>
 </pre>
 
 ### ⭐️ &nbsp;Github Star
