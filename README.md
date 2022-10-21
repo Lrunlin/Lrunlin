@@ -28,9 +28,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+![Koa](https://img.shields.io/badge/-Koa-333333?style=flat&logo=Koa)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
