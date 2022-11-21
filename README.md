@@ -12,16 +12,15 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
 
-<strong>学生</strong>
 
-<strong>Web前端方向</strong>
 
-<b><a href="https://blogweb.cn" target="_blank" >个人博客</a></b>
+<b><a href="https://blogweb.cn" target="_blank" >BLOG</a></b>
 </pre>
 
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lrunlin&count_private=true&show_icons=true"/>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Lrunlin&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lrunlin&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,6 +29,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
 ![Koa](https://img.shields.io/badge/-Koa-333333?style=flat&logo=Koa)
